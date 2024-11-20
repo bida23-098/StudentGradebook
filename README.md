@@ -1,6 +1,6 @@
-Student Gradebook Management System
+#Student Gradebook Management System
 
-Overview
+## **Overview**
 The Student Gradebook Management System is a Python-based CLI application designed for educators to manage student records efficiently. It allows for the addition, update, removal, and sorting of student grades across multiple subjects. The system also provides advanced functionality like error handling, average grade calculation, and data sorting.
 
 Description
